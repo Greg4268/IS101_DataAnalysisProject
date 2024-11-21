@@ -9,6 +9,9 @@
    - `python [filename].py`
 
 The following files were used for final presentation and report: 
+
 `3d_plot.py` - Life Expectancy (Years), Healthcare Expenditure per Capita (USD), Doctor-to-Patient Ratio
+
 `scatter.py` - Life Expectancy (Years), Healthcare Expenditure per Capita (USD)
+
 `US-DPR_plot.py` - Life Expectancy (Years), Doctor-to-Patient Ratio
